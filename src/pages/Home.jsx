@@ -1,3 +1,8 @@
+//git add .
+//git commit -m
+//git push origin main 
+
+
 import About from "../components/about/About"
 import Beyond from "../components/beyondwork/Beyond"
 import Contact from "../components/contact/Contact"

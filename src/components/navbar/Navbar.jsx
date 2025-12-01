@@ -1,5 +1,5 @@
 import "./navbar.css"
-import resume from '../../assets/ANFAS.pdf'
+import resume from "../../assets/resume.pdf"
 
 const Navbar = () => {
     return (

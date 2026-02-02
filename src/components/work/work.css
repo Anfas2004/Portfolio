@@ -12,13 +12,13 @@
 
 .workcontext {
     display: flex;
-    justify-content: start;
+    flex-direction: column;   /* 👈 key line */
+    justify-content: center;
     align-items: center;
     width: 100%;
-    gap: var(--spacing-xl);
-    position: relative;
-    z-index: 1;
+    gap: var(--spacing-xxxl); /* space between the two rows */
 }
+
 
 .retrade {
     display: flex;

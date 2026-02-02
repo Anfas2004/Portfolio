@@ -18,7 +18,7 @@ const Home = () => {
             <div className="main">
                 <Header />
                 <div className="heading">
-                    <h3>Selected Works</h3>
+                    <h3>Personal Projects</h3>
                 </div>
                 <Work />
                 <div className="heading">
